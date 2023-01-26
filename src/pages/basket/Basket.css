@@ -1,0 +1,16 @@
+.basket-cards{
+    display: flex;
+    flex-direction: row;
+}
+.basket_card{
+    width: 400px;
+    padding: 10px;
+    background-color: gray;
+    margin: 20px;
+    border-radius: 5px;
+}
+.basket_card img{
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+}

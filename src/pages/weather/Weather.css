@@ -1,0 +1,16 @@
+.weather{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.weather input{
+    padding: 5px 10px;
+}
+.weather button{
+    padding: 5px 10px ;
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}

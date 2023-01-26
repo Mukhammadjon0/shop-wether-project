@@ -1,0 +1,14 @@
+.home-page{
+    padding: 20px;
+}
+.product-card{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(240px,1fr));
+    grid-gap: 10px;
+}
+.product-card button{
+    padding: 5px 10px;
+    /* background-color: gray; */
+    border-radius: 5px;
+
+}
